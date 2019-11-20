@@ -1,0 +1,11 @@
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.exe
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.deps.json
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.runtimeconfig.json
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.runtimeconfig.dev.json
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.dll
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\bin\Debug\netcoreapp3.0\DesignPatternsDecorator.pdb
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\obj\Debug\netcoreapp3.0\DesignPatternsDecorator.csprojAssemblyReference.cache
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\obj\Debug\netcoreapp3.0\DesignPatternsDecorator.AssemblyInfoInputs.cache
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\obj\Debug\netcoreapp3.0\DesignPatternsDecorator.AssemblyInfo.cs
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\obj\Debug\netcoreapp3.0\DesignPatternsDecorator.dll
+C:\Users\holkin\RiderProjects\DesignPatternsDecorator\DesignPatternsDecorator\obj\Debug\netcoreapp3.0\DesignPatternsDecorator.pdb
